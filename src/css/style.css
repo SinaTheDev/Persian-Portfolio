@@ -119,6 +119,23 @@ section {
    .footer-border{
        border-top:2px solid #6a6969;
    }
+   .timeline{
+    border-right:2px solid #333;
+   }
+   .timeline-item{
+       border-bottom:1px solid #333;
+   }
+   .time-badge{
+       border:3px solid #007BED;
+       transform:translateX(50%);
+       margin-top:5px;
+       background-color:#212122;
+   }
+   .transformX{
+    transform: translateX(20px);
+   }
+
+   
   
    
 }
